@@ -2,7 +2,6 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://confidential-nt.github.io/react_basic_habit_tracker/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.0",
     "@testing-library/jest-dom": "^5.14.1",
